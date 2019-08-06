@@ -1,0 +1,25 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Palindrome",
+            "request": "launch",
+            "mainClass": "com.tperkins.app.Palindrome",
+            "projectName": "palindrome"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Solution",
+            "request": "launch",
+            "mainClass": "online.src.main.Solution",
+            "projectName": "palindrome_40251fe2"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Solution",
+            "request": "launch",
+            "mainClass": "Solution",
+            "projectName": "palindrome_40251fe2"
+        }
+    ]
+}
